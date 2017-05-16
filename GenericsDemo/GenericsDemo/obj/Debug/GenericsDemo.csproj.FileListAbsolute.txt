@@ -1,0 +1,2 @@
+C:\Users\newks\Documents\GitHub\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\newks\Source\Repos\Generic-Data-Structures\GenericsDemo\GenericsDemo\bin\Debug\GenericsDemo.exe.config
